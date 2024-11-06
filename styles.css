@@ -1,0 +1,14 @@
+#colorButton {
+    color: white;
+    background-color: black;
+    padding: 1rem;
+    border-radius: 12px;
+    margin-left: 45%;
+    margin-top: 20%;
+}
+
+#colorButton:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
